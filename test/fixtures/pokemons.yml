@@ -1,0 +1,280 @@
+Bulbasaur:
+    name: Bulbasaur
+    number: 1
+    type1: Grass
+    type2: Poison
+    total: 318
+    hp: 45
+    attack: 49
+    defense: 49
+    sp_atk: 65
+    sp_def: 65
+    speed: 45
+    generation: 1
+    legendary: FALSE
+Ivysaur:
+    name: Ivysaur
+    number: 2
+    type1: Grass
+    type2: Poison
+    total: 405
+    hp: 60
+    attack: 62
+    defense: 63
+    sp_atk: 80
+    sp_def: 80
+    speed: 60
+    generation: 1
+    legendary: FALSE
+Venusaur:
+    name: Venusaur
+    number: 3
+    type1: Grass
+    type2: Poison
+    total: 525
+    hp: 80
+    attack: 82
+    defense: 83
+    sp_atk: 100
+    sp_def: 100
+    speed: 80
+    generation: 1
+    legendary: FALSE
+Mega Venusaur:
+    name: VenusaurMega Venusaur
+    number: 3
+    type1: Grass
+    type2: Poison
+    total: 625
+    hp: 80
+    attack: 100
+    defense: 123
+    sp_atk: 122
+    sp_def: 120
+    speed: 80
+    generation: 1
+    legendary: FALSE
+Charmander:
+    name: Charmander
+    number: 4
+    type1: Fire
+    type2: 
+    total: 309
+    hp: 39
+    attack: 52
+    defense: 43
+    sp_atk: 60
+    sp_def: 50
+    speed: 65
+    generation: 1
+    legendary: FALSE
+Charmeleon:
+    name: Charmeleon
+    number: 5
+    type1: Fire
+    type2: 
+    total: 405
+    hp: 58
+    attack: 64
+    defense: 58
+    sp_atk: 80
+    sp_def: 65
+    speed: 80
+    generation: 1
+    legendary: FALSE
+Charizard:
+    name: Charizard
+    number: 6
+    type1: Fire
+    type2: Flying
+    total: 534
+    hp: 78
+    attack: 84
+    defense: 78
+    sp_atk: 109
+    sp_def: 85
+    speed: 100
+    generation: 1
+    legendary: FALSE
+Mega Charizard X:
+    name: CharizardMega Charizard X
+    number: 6
+    type1: Fire
+    type2: Dragon
+    total: 634
+    hp: 78
+    attack: 130
+    defense: 111
+    sp_atk: 130
+    sp_def: 85
+    speed: 100
+    generation: 1
+    legendary: FALSE
+Mega Charizard Y:
+    name: CharizardMega Charizard Y
+    number: 6
+    type1: Fire
+    type2: Flying
+    total: 634
+    hp: 78
+    attack: 104
+    defense: 78
+    sp_atk: 159
+    sp_def: 115
+    speed: 100
+    generation: 1
+    legendary: FALSE
+Squirtle:
+    name: Squirtle
+    number: 7
+    type1: Water
+    type2: 
+    total: 314
+    hp: 44
+    attack: 48
+    defense: 65
+    sp_atk: 50
+    sp_def: 64
+    speed: 43
+    generation: 1
+    legendary: FALSE
+Wartortle:
+    name: Wartortle
+    number: 8
+    type1: Water
+    type2: 
+    total: 405
+    hp: 59
+    attack: 63
+    defense: 80
+    sp_atk: 65
+    sp_def: 80
+    speed: 58
+    generation: 1
+    legendary: FALSE
+Blastoise:
+    name: Blastoise
+    number: 9
+    type1: Water
+    type2: 
+    total: 530
+    hp: 79
+    attack: 83
+    defense: 100
+    sp_atk: 85
+    sp_def: 105
+    speed: 78
+    generation: 1
+    legendary: FALSE
+Mega Blastoise:
+    name: BlastoiseMega Blastoise
+    number: 9
+    type1: Water
+    type2: 
+    total: 630
+    hp: 79
+    attack: 103
+    defense: 120
+    sp_atk: 135
+    sp_def: 115
+    speed: 78
+    generation: 1
+    legendary: FALSE
+Caterpie:
+    name: Caterpie
+    number: 10
+    type1: Bug
+    type2: 
+    total: 195
+    hp: 45
+    attack: 30
+    defense: 35
+    sp_atk: 20
+    sp_def: 20
+    speed: 45
+    generation: 1
+    legendary: FALSE
+Metapod:
+    name: Metapod
+    number: 11
+    type1: Bug
+    type2: 
+    total: 205
+    hp: 50
+    attack: 20
+    defense: 55
+    sp_atk: 25
+    sp_def: 25
+    speed: 30
+    generation: 1
+    legendary: FALSE
+Butterfree:
+    name: Butterfree
+    number: 12
+    type1: Bug
+    type2: Flying
+    total: 395
+    hp: 60
+    attack: 45
+    defense: 50
+    sp_atk: 90
+    sp_def: 80
+    speed: 70
+    generation: 1
+    legendary: FALSE
+Weedle:
+    name: Weedle
+    number: 13
+    type1: Bug
+    type2: Poison
+    total: 195
+    hp: 40
+    attack: 35
+    defense: 30
+    sp_atk: 20
+    sp_def: 20
+    speed: 50
+    generation: 1
+    legendary: FALSE
+Kakuna:
+    name: Kakuna
+    number: 14
+    type1: Bug
+    type2: Poison
+    total: 205
+    hp: 45
+    attack: 25
+    defense: 50
+    sp_atk: 25
+    sp_def: 25
+    speed: 35
+    generation: 1
+    legendary: FALSE
+Beedrill:
+    name: Beedrill
+    number: 15
+    type1: Bug
+    type2: Poison
+    total: 395
+    hp: 65
+    attack: 90
+    defense: 40
+    sp_atk: 45
+    sp_def: 80
+    speed: 75
+    generation: 1
+    legendary: FALSE
+Mega Beedrill:
+    name: BeedrillMega Beedrill
+    number: 15
+    type1: Bug
+    type2: Poison
+    total: 495
+    hp: 65
+    attack: 150
+    defense: 40
+    sp_atk: 15
+    sp_def: 80
+    speed: 145
+    generation: 1
+    legendary: FALSE
