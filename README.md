@@ -1,6 +1,6 @@
 # Pokemon_API
 
-This project exposes a list of Pokemon through an API based on the requirements from Petal team as listed in these [instructions](./INSTRUCTIONS).
+This project exposes a list of Pokemon through an API based on the requirements from Petal team as listed in these [instructions](./INSTRUCTIONS.md).
 
 ## Getting started
 
