@@ -4,25 +4,21 @@ This project exposes a list of Pokemon through an API based on the requirements 
 
 ## Getting started
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Use the following commands to install dependancies, seed the database and implement a local web API serving CRUD operations on the list of pokemons.
 
-Things you may want to cover:
+```bash
+    bundle install
+    rails db:seed
+    rails s
+```
+### Tests
+A series of test has been written and can be executed with this command.
+```bash
+    rails test
+```
 
-* Ruby version
+### Testing with Postman
 
-* System dependencies
+A postman [workspace](postman/Pokemon%20API.postman_collection.json) and [environment variables](postman/PokemonsAPI.postman_environment.json) is provided in the `/postman` folder.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Import the two files to your postman environment to start testing.
